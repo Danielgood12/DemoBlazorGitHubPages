@@ -178,7 +178,6 @@ D:\github\DemoBlazorGitHubPages\obj\Debug\netstandard2.1\Razor\_Imports.razor.g.
 D:\github\DemoBlazorGitHubPages\obj\Debug\netstandard2.1\myapp.RazorTargetAssemblyInfo.cache
 D:\github\DemoBlazorGitHubPages\obj\Debug\netstandard2.1\myapp.csproj.CopyComplete
 D:\github\DemoBlazorGitHubPages\obj\Debug\netstandard2.1\blazor\unlinked.output
-D:\github\DemoBlazorGitHubPages\obj\Debug\netstandard2.1\integrity\F2Uc8eSPoiofdqkhdrXOBKqmm5sLn3a57tJ7-M7rBGQ=.hash
 D:\github\DemoBlazorGitHubPages\obj\Debug\netstandard2.1\integrity\99dseBOagY3mzu5Y8Eqm8gRI_o8QbbCp7R2Ew9bQ_5E=.hash
 D:\github\DemoBlazorGitHubPages\obj\Debug\netstandard2.1\integrity\ZxXy75PYbzJxNfAc-SAP1nUYm4gt1jSaOpFnBb9m85M=.hash
 D:\github\DemoBlazorGitHubPages\obj\Debug\netstandard2.1\integrity\BaZPMj95_YNe3G4ckTGD6szZFwZeA2MOHn91zTGKDeU=.hash
@@ -230,13 +229,11 @@ D:\github\DemoBlazorGitHubPages\obj\Debug\netstandard2.1\integrity\zNP4aHLW-rhi6
 D:\github\DemoBlazorGitHubPages\obj\Debug\netstandard2.1\integrity\oAIlpv09S-0jXnze744E1V88Oaw8Ql1x3Alw0hsVYdw=.hash
 D:\github\DemoBlazorGitHubPages\obj\Debug\netstandard2.1\integrity\K3dpli228kQQ75WVqoiIdmn8u8q8gZHixcWDdCHCRgU=.hash
 D:\github\DemoBlazorGitHubPages\obj\Debug\netstandard2.1\integrity\dwm_rKImjhxtOmHHVpSxOgl2oh2R26xOWihLaZSv7Vs=.hash
-D:\github\DemoBlazorGitHubPages\obj\Debug\netstandard2.1\integrity\2I-MElCX8vSg8OJt6Te26PYBaFGr9uPVyPMUFlWgQyY=.hash
 D:\github\DemoBlazorGitHubPages\obj\Debug\netstandard2.1\integrity\mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=.hash
 D:\github\DemoBlazorGitHubPages\obj\Debug\netstandard2.1\integrity\3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=.hash
 D:\github\DemoBlazorGitHubPages\obj\Debug\netstandard2.1\integrity\UC-3Rm1NkdNdlIrzYARo_dO-HDlS5mhPxo0IQv7kma8=.hash
 D:\github\DemoBlazorGitHubPages\obj\Debug\netstandard2.1\integrity\oU0moF6IIkna1pMoSD6Ze63s6aHfjCtUflz7xDmENPg=.hash
 D:\github\DemoBlazorGitHubPages\obj\Debug\netstandard2.1\blazor\blazor.boot.json
-D:\github\DemoBlazorGitHubPages\obj\Debug\netstandard2.1\integrity\vQiaKTzQWDnR5RAUshVGc06EP2EDyadfcFAW9WVGx5c=.hash
 D:\github\DemoBlazorGitHubPages\obj\Debug\netstandard2.1\compressed\_framework\_bin\myapp.dll.gz
 D:\github\DemoBlazorGitHubPages\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.Json.dll.gz
 D:\github\DemoBlazorGitHubPages\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Buffers.dll.gz
@@ -357,3 +354,6 @@ D:\github\DemoBlazorGitHubPages\obj\Debug\netstandard2.1\staticwebassets\myapp.S
 D:\github\DemoBlazorGitHubPages\obj\Debug\netstandard2.1\staticwebassets\myapp.StaticWebAssets.xml
 D:\github\DemoBlazorGitHubPages\obj\Debug\netstandard2.1\myapp.dll
 D:\github\DemoBlazorGitHubPages\obj\Debug\netstandard2.1\myapp.pdb
+D:\github\DemoBlazorGitHubPages\obj\Debug\netstandard2.1\integrity\_eSX-74KBB-dJ4ubzfCDGnOp2b1cy_Yqu-q-q089vvU=.hash
+D:\github\DemoBlazorGitHubPages\obj\Debug\netstandard2.1\integrity\3Yn1l7jqzMWNksA6B9xpSWWp6C4Ycq_zIGJ2HYj7fy4=.hash
+D:\github\DemoBlazorGitHubPages\obj\Debug\netstandard2.1\integrity\5Nsm-6Xbq3_oyZXQmW5B0w53JqgGD_LDYV0Ab7AVdBY=.hash
